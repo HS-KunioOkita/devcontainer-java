@@ -1,0 +1,10 @@
+{
+    "name": "openjdk21",
+    "image": "openjdk:21-jdk-slim-buster",
+    "extensions": [
+      "vscjava.vscode-java-pack",
+      "ms-vsliveshare.vsliveshare"
+    ],
+    "settings": {
+    }
+}
